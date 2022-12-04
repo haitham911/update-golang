@@ -2,7 +2,7 @@
 [![Travis Build Status](https://travis-ci.org/udhos/update-golang.svg?branch=master)](https://travis-ci.org/udhos/update-golang)
 
 # update-golang
-update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion.
+update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion .
 
 Table of Contents
 =================
